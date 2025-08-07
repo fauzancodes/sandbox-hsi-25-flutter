@@ -1,0 +1,1 @@
+This repository was created to accommodate the code work of the **SANDBOX IT HSI 25 Flutter** assignment belonging to **ARN232-22006 M Fauzan Murtadho**
